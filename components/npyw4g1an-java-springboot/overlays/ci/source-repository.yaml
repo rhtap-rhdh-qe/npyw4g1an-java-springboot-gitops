@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: npyw4g1an-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/npyw4g1an-java-springboot
